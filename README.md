@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Julia where a MethodError is thrown when a function's logic implicitly handles zero input but doesn't explicitly define its behavior for zero.  The `bug.jl` file contains the buggy code, while `bugSolution.jl` provides a corrected version.
